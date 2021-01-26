@@ -4,6 +4,11 @@
 *.dll
 *.so
 *.dylib
+*.puml
+*.png
+*.svg
+
+go2uml
 
 # Test binary, built with `go test -c`
 *.test
